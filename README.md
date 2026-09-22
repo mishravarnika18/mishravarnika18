@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**mishravarnika18/mishravarnika18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Varnika Mishra! 👋
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Student & Tech Enthusiast
+- 🚀 Learning new coding skills every day
+- 🔭 Working on building my programming foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- 🌐 Web: HTML5, CSS3, JavaScript
+- 💻 Languages: Python, Java (इन्हें आप अपने हिसाब से बदल सकते हैं)
+- ⚙️ Tools: Git, GitHub
+
+### 📈 GitHub Stats
+![](https://vercel.app)
+
+### 📫 How to reach me
+- 📧 Email: mishravarnika18@gmail.com
