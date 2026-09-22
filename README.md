@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack & Skills
 - 🌐 Web: HTML5, CSS3, JavaScript
-- 💻 Languages: Python, Java (इन्हें आप अपने हिसाब से बदल सकते हैं)
+- 💻 Languages: Python, Java
 - ⚙️ Tools: Git, GitHub
 
 ### 📈 GitHub Stats
